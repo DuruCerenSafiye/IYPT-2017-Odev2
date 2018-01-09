@@ -6,7 +6,7 @@ Günlük hayatta kullandığımız bazı içeceklerin içine pipet koyduğumuzda
 
 Deneyimizin amacı bir pipeti gazlı bir içeceğe yerleştirdiğimizde pipetin yükselme hızını etkileyen faktörleri ve pipetin yükselme miktarını etkileyen faktörleri bulmaktı. Biz de deneyi yaparken bu amacı göz önünde bulundurduk. İnternette araştırma yaptığımızda bu konuda pek bir bilgiye erişemedik. İzlediğimiz birkaç videoda pipet gazlı içeceğin içine bırakılıyor ve yükselmesi gözlemleniyordu. Biz bu deneye ek olarak pipetin cinsini, kullandığımız kabın cinsini ve içeceğin cinsini değiştirerek ortaya çıkan sonuçlar ile karşılaştırmalar yaptık.
 
-# Kaynakça
+## Kaynakça
 https://www.youtube.com/watch?v=B7cLerUc_X8
 
 # Materyal ve Yöntem

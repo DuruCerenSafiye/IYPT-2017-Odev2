@@ -29,10 +29,10 @@ https://www.youtube.com/watch?v=B7cLerUc_X8
 * Karton bardak ile cam bardağa eşit seviyede soda doldurduk ve özdeş pipetleri içlerine bıraktık. Karton bardaktaki yükselme olayının cam bardaktakine göre daha yavaş gerçekleştiğini gözlemledik.
 * İki cam bardağa farklı miktarda soda koyduk ve içlerine özdeş pipetler yerleştirdik. Sıvı miktarı fazla olan bardakta pipet hem daha fazla yükseldi hem de daha hızlıydı.
 
-## DİPNOT:
+### DİPNOT:
 Düz pipet sodada 42 saniyede,
-Burgulu pipet sodada 1 dakika 10 saniyede,
-Kısa ve ince pipet ise sodada 40 saniyede yükseldi.
+burgulu pipet sodada 1 dakika 10 saniyede,
+kısa ve ince pipet ise sodada 40 saniyede yükseldi.
 
 
 # Bulgular
